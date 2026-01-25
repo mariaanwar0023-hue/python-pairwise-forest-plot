@@ -332,5 +332,4 @@ if __name__ == "__main__":
 #    python forest_plot_subgroup.py
 #
 # 4. Output: 'forest_plot_subgroup.png' at 600 DPI
-#
-# =============================================================================
+
