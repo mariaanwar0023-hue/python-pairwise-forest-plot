@@ -290,26 +290,3 @@ if __name__ == "__main__":
 #
 # 3. The plot will be saved as 'forest_plot_horizontal.png' at 600 DPI
 #
-# =============================================================================
-```
-
----
-
-## **Step 5: Write Your Commit Message**
-
-**First box (short description):**
-```
-feat: Add horizontal forest plot variant
-```
-
-**Second box (extended description):**
-```
-Add horizontal forest plot visualization option:
-- Diamond markers for point estimates
-- 95% CI lines with end caps
-- Significance color coding (green/gray)
-- Value boxes with diff, CI, and p-values
-- Background shading for direction interpretation
-- Customizable for any number of comparisons
-- Publication-ready 600 DPI output
-- Template with placeholder values for easy customization
